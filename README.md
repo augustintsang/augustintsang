@@ -6,10 +6,6 @@
 
 💬I'm always up for a chat about football, cooking or anything you would like to share! Check out my website at [augustin.codes](augustin.codes) or reach out to me at [augustin.tsang@berkeley.edu](mailto:augustin.tsang@berkeley.edu)
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=augustintsang&theme=radical)
-
 
 <!--
 **augustintsang/augustintsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
