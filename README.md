@@ -10,6 +10,10 @@
 
 ![Augustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustintsang&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustintsang&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=augustin_tsang&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=augustin-tsang&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=augustin-tsang&theme=radical)
+
 
 <!--
 **augustintsang/augustintsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
