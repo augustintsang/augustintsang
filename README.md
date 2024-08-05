@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👋 Hi, I'm Augustin, a junior at Berkeley. I'm pursuing a double major in Computer Science & Data Science whilst obtaining the Certificate in Technology & Entrepreneurship.
+
+🔭I aspire to be using AI/ML to deeply understand global macroeconomic trends with commodity market fundamentals and building tools with the objective to facilitate international exchanges of goods, services and information.
+
+💬I'm always up for a chat about football, cooking or anything you would like to share! Reach out to me at augustin.tsang@berkeley.edu
+
 <!--
 **augustintsang/augustintsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
