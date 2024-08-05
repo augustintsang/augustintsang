@@ -8,11 +8,7 @@
 
 ## 📈 GitHub Stats
 
-![Augustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustintsang&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustintsang&layout=compact&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=augustintsang&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=augustintsang&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=augustintsang&theme=radical)
 
 
 <!--
