@@ -1,22 +1,7 @@
-## Hi there 👋
+forward deployed engineer at [giga](https://giga.ai), employee #14. i deploy voice and chat ai agents for enterprise customer support.
 
-👋 Hi, I'm Augustin, a junior at Berkeley. I'm pursuing a double major in Computer Science & Data Science whilst obtaining the Certificate in Technology & Entrepreneurship.
+previously: an ai receptionist startup at berkeley, agents at nirmata and fractal, research at bair. cs + data science at cal.
 
-🔭I aspire to be using AI/ML to deeply understand global macroeconomic trends with commodity market fundamentals and building tools with the objective to facilitate international exchanges of goods, services and information.
+off the clock: football, cooking, markets.
 
-💬I'm always up for a chat about football, cooking or anything you would like to share! Check out my website at [augustin.codes](augustin.codes) or reach out to me at [augustin.tsang@berkeley.edu](mailto:augustin.tsang@berkeley.edu)
-
-<!--
-**augustintsang/augustintsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin](https://www.linkedin.com/in/augustin-tsang) · [augustintsang@gmail.com](mailto:augustintsang@gmail.com)
